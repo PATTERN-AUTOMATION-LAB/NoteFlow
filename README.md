@@ -1,5 +1,5 @@
 
-  <img alt="NoteFlow – AI-powered voice note taking in seconds." src="/public/images/og-image.png">
+  <img alt="NoteFlow – AI-powered voice note taking in seconds." src=https://github.com/PATTERN-AUTOMATION-LAB/NoteFlow/blob/main/Images/Logo.JPG>
   <h1 align="center">NoteFlow</h1>
 
 
