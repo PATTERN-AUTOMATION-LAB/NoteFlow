@@ -1,10 +1,10 @@
-<a href="https://domainname.com/">
-  <img alt="NoteFlow – AI-powered voice note taking in seconds." src="/public/images/og-image.png">
-  <h1 align="center">noteFlow</h1>
-</a>
+
+  <img alt="NoteFlow – AI-powered voice note taking in seconds." src=https://github.com/PATTERN-AUTOMATION-LAB/NoteFlow/blob/main/Images/Logo.JPG>
+  <h1 align="center">NoteFlow</h1>
+
 
 <p align="center">
-  Generate action items from your notes in seconds. Powered by Pattern Automation
+  Generate action items from your notes in seconds. Powered by Convex and Whisper with PATTERN AUTOMATION TEAM.
 </p>
 
 <p align="center">
@@ -37,6 +37,8 @@ You can deploy this template by setting up the following services and adding the
    4. Add `CLERK_ISSUER_URL` to your [Convex Environment Variables](https://dashboard.convex.dev/deployment/settings/environment-variables?var=CLERK_ISSUER_URL)
       (deep link also available in your terminal). Paste the Issuer URL as the value and click "Save".
 4. Now your frontend and backend should be running and you should be able to log in but not record.
+5. Make a [Open Router] account to get your [API key]
+6. Save your environment variables in Convex [`Open Router_API_KEY`](https://dashboard.convex.dev/deployment/settings/environment-variables?var=TOGETHER_API_KEY).
 
 ## Future tasks:
 
@@ -52,4 +54,3 @@ You can deploy this template by setting up the following services and adding the
 - [ ] Be able to edit action items after the fact and set a due date for them
 - [ ] Account for layout shift on the dashboard page when refreshing – show a loading state on content?
 - [ ] Make action items animate out + make checkbox rounded + add a little check icon on hover
-- [ ] Migrate to incredibly fast whisper
